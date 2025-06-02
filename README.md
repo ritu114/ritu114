@@ -1,40 +1,12 @@
-# Hi there, I'm Ritu Singh 👋
+<h2>👋 welcome to my profile</h2>
 
-💡 Passionate about building modern apps and web solutions  
-💻 Currently focused on React , JavaScript, and full-stack development  
-🌱 Learning more about system design, creative  and fintech innovations  
+- 💻 I'm currently building my Developer Portfolio  
+- 🤝 Actively seeking collaboration on **Mobile App** and **Web Development** projects  
+- 🌱 Learning Full Stack Development with a focus on clean code & scalability  
+- 🎨 Ask me anything about **Frontend Development**, **UI/UX**, or **design systems**  
+- 🚀 Eager to contribute to **Open Source**, **startup MVPs**, and real-world projects  
+- 🔍 Exploring modern tech like **Next.js**, **Tailwind CSS**, **TypeScript**, and **DevOps workflows**  
+- 🎯 Driven to become a versatile developer who builds impactful digital experiences  
+- 💡 Let’s innovate together and turn ideas into reality  
+-
 
----
-
-## 🚀 Projects
-
-- 💰 **StellPay** – A React Native financial app with clean UI, transaction history, and Stellar-based payments  
-- 🍽️ **Cafe The Hideout** – Classic-themed restaurant website with responsive pages  
-- 📍 **Railway Station Mapping System** – Helps passengers locate amenities using station maps  
-- 📺 **Netflix Clone** – UI clone built with HTML, CSS, JavaScript
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** JavaScript, C++, Python  
-- **Frontend:** React, React Native, HTML5, CSS3  
-- **Backend:** Node.js, Express.js (Learning)  
-- **Database:** Firebase, MongoDB (Learning)  
-- **Tools:** Git, GitHub, VS Code, Expo, Figma  
-
----
-
-## 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 📧 Email: ritusingh@example.com  
-- 🌐 [Portfolio](https://your-portfolio-link.com) (if available)
-
----
-
-
-<!---
-ritu114/ritu114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
