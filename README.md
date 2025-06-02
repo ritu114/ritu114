@@ -8,5 +8,5 @@
 - 🔍 Exploring modern tech like **Next.js**, **Tailwind CSS**, **TypeScript**, and **DevOps workflows**  
 - 🎯 Driven to become a versatile developer who builds impactful digital experiences  
 - 💡 Let’s innovate together and turn ideas into reality  
--
+
 
